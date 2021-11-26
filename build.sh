@@ -1,3 +1,3 @@
-docker build . -t inboxamitraj/red:latest
-docker images|grep red
-docker push inboxamitraj/red:latest
+docker build . -t inboxamitraj/green:latest
+docker images|grep green
+docker push inboxamitraj/green:latest
